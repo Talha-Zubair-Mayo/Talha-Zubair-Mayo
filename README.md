@@ -10,6 +10,10 @@
  <a href = "mailto:Tkashi328@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
  <a href = "https://mywa.link/talhazubairmayo"><img align="center" src="https://simpleicons.org/icons/whatsapp.svg" height="30" width="40" /></a>
  <a href = "https://twitter.com/TaLhAZuBaIrMaY3"><img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
+ <a href = "https://www.instagram.com/talha.zubair.mayo/"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
+ <a href = "https://stackoverflow.com/users/11344397/talha-zubair-mayo"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" height="30" width="40" /></a>
+ 
+ 
 
 </p>
 </p>
