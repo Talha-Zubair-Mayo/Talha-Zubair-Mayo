@@ -67,3 +67,4 @@
 
 ### :medal_sports: Projects :
 - 	 **MyShop (Website)** => :link:	https://talha-m.netlify.app/
+- 	 **TinderClone** => :link:	https://tinderclone-tk.herokuapp.com/
