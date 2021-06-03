@@ -73,4 +73,5 @@
 
 ### :medal_sports: Projects :
 - 	 **MyShop (Website)** => :link:	https://talha-m.netlify.app/
-- 	 **TinderClone** => :link:	https://tinderclone-tk.herokuapp.com/
+- 	 **TinderClone** => :link:https://tinderclone-tk.herokuapp.com/
+- 	 **DummyPortFolio** => :link:https://talha-zubair-mayo.github.io/React1stPortfolio/
