@@ -76,3 +76,4 @@
 - 	 **TinderClone** => :link:https://tinderclone-tk.herokuapp.com/
 - 	 **DummyPortFolio** => :link:https://talha-zubair-mayo.github.io/React1stPortfolio/
 -    **Shop App** => :link:https://shopp2.herokuapp.com/
+-    **Blog Mern App** => :link: https://mernblog-tk.herokuapp.com/
