@@ -7,10 +7,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/talha-zubair-mayo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://web.facebook.com/TaLhA.ZuBaIr.MaYo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Talha Zubair" height="30" width="40" /></a>
+  <a href="https://join.skype.com/invite/Xv2EFsZs73NV" target="blank"><img align="center" src="https://simpleicons.org/icons/skype.svg" alt="Talha Zubair" height="30" width="40" /></a>
  <a href = "mailto:Tkashi328@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
  <a href = "https://mywa.link/talhazubairmayo"><img align="center" src="https://simpleicons.org/icons/whatsapp.svg" height="30" width="40" /></a>
- <a href = "https://twitter.com/TaLhAZuBaIrMaY3"><img align="center" src="https://simpleicons.org/icons/twitter.svg" height="30" width="40" /></a>
- <a href = "https://www.instagram.com/talha.zubair.mayo/"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
  <a href = "https://stackoverflow.com/users/11344397/talha-zubair-mayo"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" height="30" width="40" /></a>
  
  
@@ -47,8 +46,8 @@
   
 
 
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
+  <code> <img height="50" src="https://simpleicons.org/icons/git.svg"> </code>
+  <code> <img height="50" src="https://simpleicons.org/icons/mongodb.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
